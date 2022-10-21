@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://wallpaperfuture.github.io/sitemap.xml
+Sitemap: https://wallpaperfunniest.github.io/sitemap.xml

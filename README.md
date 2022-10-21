@@ -1,1 +1,1 @@
-# [wallpaperfuture.github.io](https://wallpaperfuture.github.io)
+# [wallpaperfunniest.github.io](https://wallpaperfunniest.github.io)
